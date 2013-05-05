@@ -1,0 +1,7 @@
+import com.example.Example;
+
+public class Caller {
+  public static void main(String[] args) {
+    Example.doSomething();
+  }
+}
